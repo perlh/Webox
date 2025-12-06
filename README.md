@@ -13,7 +13,7 @@ WeBox 是一款轻量高效的快捷命令管理工具，同时支持系统托�
 2. 安装后，执行以下命令后运行程序
 
 ```bash
-sudo xattr -d com.apple.quarantine /Applications/Wavely.app
+sudo xattr -d com.apple.quarantine /Applications/WeBox.app
 ```
 
 3. 按下 Command+K（macOS） 即可呼出快捷搜索窗口
